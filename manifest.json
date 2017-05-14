@@ -7,24 +7,21 @@
         {
             "files": [
                 {
-                    "url": "https://github.com/MZO9400/op2mrom/raw/master/multirom-20170511-v33b-UNOFFICIAL-oneplus2.zip",
+                    "url": "https://raw.githubusercontent.com/MZO9400/op2mrom/master/multirom-20170511-v33b-UNOFFICIAL-oneplus2.zip",
                     "version": "33b",
                     "type": "multirom",
-                    "size": 6801089,
                     "md5": "3e9b8f5175218c26d37495cd55ce2530"
                 },
                 {
-                    "url": "https://github.com/MZO9400/op2mrom/raw/master/TWRP_multirom_oneplus2_20170512-01.img",
+                    "url": "https://raw.githubusercontent.com/MZO9400/op2mrom/master/TWRP_multirom_oneplus2_20170512-01.img",
                     "version": "3.1-mrom20170512-01",
                     "type": "recovery",
-                    "size": 20692992,
                     "md5": "9ef90f77780ee86d062d03c7da5856c6"
                 },
                 {
-                    "url": "https://github.com/MZO9400/op2mrom/raw/master/multirom_uninstaller.zip",
+                    "url": "https://raw.githubusercontent.com/MZO9400/op2mrom/master/multirom_uninstaller.zip",
                     "version": "1.0",
                     "type": "uninstaller",
-                    "size": 1705912,
                     "md5": "e17e10640fad7289bb058273a02c77c5"
                 }
             ],
